@@ -1,0 +1,187 @@
+body{
+    margin : 0;
+    font-family:Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.header{
+    background : #3b5998;
+    width: 100%;
+    height:85px;
+}
+.logo{
+    width:50%;
+    padding-top:32px;
+    float:left;
+}
+.login{
+    width:50%;
+    float:left;
+
+}
+.logo-text{
+
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-left:170px;
+
+}
+.login-label{
+    color:#fff;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left : 115px;
+
+}
+.login{
+    padding-top : 10px
+}
+.forgotten-account{
+    
+    
+    font-size : 11px;
+    text-decoration : none;
+    color : #9cb4d8;
+}
+.sub-btn{
+    background-color: #4267b2;
+    color: #fff;
+    height:20px;
+    border-color: #29487d;
+    margin-left: 10px;
+    height: 20px;
+    
+
+}
+.sub-btn:hover{
+    background-color: #8cc0eb; 
+    cursor: pointer;
+}
+.left-section{
+    width:50%;
+    float:left;
+    padding-left:134px;
+    padding-top: 52px;
+}
+.right-section{
+    width:30%;
+    float:left;
+}
+.main-body{
+    background:linear-gradient(white,#ccccff);
+    width:100%;
+    height:654px;
+}
+.image{
+    width:485px;
+    height: 236px;
+}
+.para{
+    
+    font-weight: bold;
+    font-size: 21px;
+}
+li{
+    list-style: none;
+    padding:5px;
+    
+
+}
+.first-row{
+    
+   
+}
+.right-table{
+    
+}
+.td-1{
+    padding:10px;
+    
+    
+}
+.first-row{
+    height:35px;
+    border:1px solid #ccccff;
+    border-radius: 5px;
+    font-size: 16px;
+    padding-left:10px;
+}
+.second-row{
+    width:209%;
+}
+select{
+    height:37px;
+}
+.a-select{
+    height:30px;
+    
+    
+    text-decoration: none;
+    font-size: 12px;
+    
+}
+.left-li{
+    float: left;
+    width:50%;
+}
+.right-li{
+    padding-right:10px;
+    margin-left:-20px;
+    float:left;
+    width:35%;
+    
+}
+.gender{
+    width:100%;
+    margin-top:70px;
+    margin-left: -6px;;
+}
+#terms{
+    padding-top:10px;
+    font-size: 12px;
+    color: grey;
+}
+.create{
+    height: 38px;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+    background-color: #64b164;
+    border: 1px solid green;
+    border-radius: 5px;
+    width: 52%;
+    margin-top: 37px;
+}
+#create_page{
+    font
+}
+#create{
+    color:#0000cc;
+    font-size: 14px;
+}
+#page{
+    color: grey;
+    font-size:14px;
+}
+.foot{
+    float:left;
+    padding:20px;
+    margin-top:-10px;
+    
+}
+.p-foot{
+    margin-top:-21px;
+}
+#footer1{
+    font-size:13px;
+    
+    
+}
+.under{
+    text-decoration: none;
+}
+.un{
+    padding-left:-100px;
+}
